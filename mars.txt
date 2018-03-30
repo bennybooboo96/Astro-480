@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color
 the two moons may be a problem for wolfmann 
 but the mummy will appreciate the lack of humidity
 an ill-considered change
+=======
+Cold and dark but everything is my favorite color
+The two moons may be a problem for Wolfman
+But the Mummy will appreciate the lack of humidity
+None of this makes sense and your spelling is terrible.
+
+>>>>>>> ac8a985cdc73dd62dddc91c200dda53b63d80078
